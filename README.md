@@ -7,5 +7,9 @@ https://youtu.be/E5n0Vj7xJFY
 2. Delete Alarm
 3. Schedule Alarm
 4. Alarm also Work while APP is Off
+# How to Run
+1. npm install - To install Packages
+2. npm start - Starts metro build server
+3. npm run android - To Builds and Run Android App
 # Image
 ![image](https://www.linkpicture.com/q/IMG_20230226_171230.jpg)
